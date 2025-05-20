@@ -26,7 +26,7 @@ This project is a graphical interface for converting PDF files to DOCX format. T
 1. Ensure that Python version 3.10 or higher is installed on your system
  Install the dependencies from the requirements.txt file:
 `pip install -r requirements.txt`
-1. or run `git clone https://github.com/15SAVAGE/PDF-to-DOCX.git`
+1. Or run `git clone https://github.com/15SAVAGE/PDF-to-DOCX.git`
 then `pip install .`
 3. Download and install Tesseract OCR from the official repository
 https://github.com/tesseract-ocr/tesseract
