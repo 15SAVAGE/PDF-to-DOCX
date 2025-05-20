@@ -1,0 +1,8 @@
+pytesseract
+pdfplumber
+PyMuPDF
+pikepdf
+pdf2docx
+python-docx
+PyQt6
+Pillow
